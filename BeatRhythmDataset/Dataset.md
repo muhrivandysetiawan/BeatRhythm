@@ -1,0 +1,1 @@
+To use this dataset, download the dataset in WAV and MIDI files. If you think the dataset is poor and needs improvement, I will send you the raw dataset in MP3 format because I will continue to upgrade the song dataset from Suno AI over time. Please clean up the dataset before use. This song dataset is license-free.
