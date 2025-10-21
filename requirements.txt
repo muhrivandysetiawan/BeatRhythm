@@ -1,0 +1,26 @@
+# 🔊 Audio Processing
+librosa
+numpy
+scipy
+madmom
+pretty_midi
+squarify
+
+# 📂 Optional upgrade
+git+https://github.com/CPJKU/madmom
+
+# 🎮 Reinforcement Learning
+gymnasium==0.29.1
+shimmy
+stable-baselines3
+sb3_contrib
+
+# 📊 Visualization & Data
+pandas
+matplotlib
+seaborn
+
+# 🎼 MIDI & Utilities
+tabulate
+opencv-python
+google-colab
