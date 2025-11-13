@@ -11,6 +11,8 @@ You can access research and practical in below:
 
 Research:
 
+https://github.com/muhrivandysetiawan/BeatRhythm/blob/main/Research.md
 
 Practical:
 
+https://github.com/muhrivandysetiawan/BeatRhythm/blob/main/Practical.md
