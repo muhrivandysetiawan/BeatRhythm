@@ -27,7 +27,7 @@ The agent model evaluation will utilize quantitative metrics to measure synchron
 The research outcomes are expected to demonstrate significant improvements in the efficiency and quality of rhythm-action game level creation, with outputs in the form of a PPO model capable of generating beatmaps automatically and dynamically. All source code, datasets, and experimental results will be uploaded to a GitHub repository to promote transparency, reproducibility, and collaboration within the AI and game development research community. This will support other developers in testing and extending the proposed approach, fostering further innovation in procedural content generation for rhythm games (Giordano et al., 2023).
 
 
-# Referensce in APA
+# Reference in APA
 
 Akao, H. F. (2025). The groove hypothesis—music and dance reimagined. Frontiers in Human Neuroscience. https://doi.org/10.3389/fnhum.2025.1574836
 
